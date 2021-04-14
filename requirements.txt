@@ -1,0 +1,2 @@
+DMXEnttecPro==0.4
+pyserial==3.5
